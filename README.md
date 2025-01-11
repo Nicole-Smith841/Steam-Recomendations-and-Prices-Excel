@@ -1,1 +1,3 @@
 # Steam-Recomendations-and-Prices-Excel
+A Statistical analysis of: Video Game (Steam) recommendations and prices. For this analysis, the importance is finding trends in the data that would lead a consumer to get both the best game at the optimal price. Overall, the data points that are significant would be: how positive the game is/was received (positive_ratio), how many users or players reviewed the game (user_reviews), the original price (price_original) the final price (price_final) and the discount (discount). Initially, looking at some of the raw data was interesting as some outliers seemed to skew the data (see below).
+
